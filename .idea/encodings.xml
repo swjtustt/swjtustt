@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/spring-framework-5.0.2.RELEASE/spring-framework-5.0.2.RELEASE/spring-web/src/main/resources/META-INF/web-fragment.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-test-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-test-seleium" charset="UTF-8" />
+  </component>
+</project>
