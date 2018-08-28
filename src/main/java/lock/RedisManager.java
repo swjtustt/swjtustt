@@ -11,7 +11,7 @@ public class RedisManager {
          jedisPoolConfig.setMaxTotal(20);
          jedisPoolConfig.setMaxIdle(10);
          jedisPool = new JedisPool(jedisPoolConfig,"192.168.1.10",6379);
-
+         //git修改注释
      }
 
 }
