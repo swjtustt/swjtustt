@@ -1,4 +1,4 @@
-import java.util.function.BinaryOperator;
+/*import java.util.function.BinaryOperator;
 
 public class Test {
 
@@ -20,4 +20,4 @@ public class Test {
         System.out.println(apply);
 
     }
-}
+}*/
